@@ -3,9 +3,9 @@ Arduino control library for Integra/Onkyo AV receivers
 
 <p align="center"><img src=/img/onkyo.jpg width="700"></p>
 
-# DE-15 Console Connector
+# FFC 1.0mm 9pin Connector
 
-Onkyo AV receivers have a 9-pin connector usually located on the back of the equipment, this connector is used to re-program the main microcontroller and also has a UART LTTL serial communication at 3.3V.
+Onkyo AV receivers have a 9-pin connector usually located on the back of the equipment, this connector is used to re-program the main microcontroller and also has a UART TTL serial communication at 3.3V.
 
 The following table illustrates the pinout.
 
