@@ -1,4 +1,4 @@
-# ONKYO
-Arduino control library for ONKYO AV receivers
+# Onkyo
+Arduino control library for Integra/Onkyo AV receivers
 
 # 
