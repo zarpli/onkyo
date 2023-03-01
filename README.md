@@ -1,4 +1,4 @@
-# onkyo
+# ONKYO
 Control library for Integra/Onkyo AV receivers
 
 <p align="center"><img src=/img/onkyo.jpg width="700"></p>
