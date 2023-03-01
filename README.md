@@ -19,6 +19,7 @@ The following table illustrates the pinout.
 |4||9||
 |5|3.3V|||
 
+
 Serial Port **NO** is 5V tolerant. If you have Arduino UNO, MEGA, etc use a **Logic Level Converter.**
 
 |Serial settings||
@@ -28,7 +29,7 @@ Serial Port **NO** is 5V tolerant. If you have Arduino UNO, MEGA, etc use a **Lo
 |Parity|N|
 |Stop|1 bit|
 
-Here is the FCC connector as viewed from the front of the Main Board.
 
-<img src=/images/DE-15-M.jpg width="200">
+Example of FCC connector as viewed from the back of the receivers.
 
+<p align="center"><img src=/img/PORT9PIN.png></p>
