@@ -1,5 +1,5 @@
-# Onkyo
-Arduino control library for Integra/Onkyo AV receivers
+# onkyo
+Control library for Integra/Onkyo AV receivers
 
 <p align="center"><img src=/img/onkyo.jpg width="700"></p>
 
