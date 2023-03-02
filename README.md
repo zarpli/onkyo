@@ -34,9 +34,13 @@ Example of FCC connector as viewed from the back of the receivers.
 
 <p align="center"><img src=/img/PORT9PIN.png></p>
 
-# commands
+# ISCP commands
 
 The commands are defined in the [ISCP](doc/ISCP_ONKYO_V115.pdf) spec document.
+
+<p align="center"><img src=https://raw.githubusercontent.com/zarpli/onkyo/main/img/pwr_cmd.png></p>
+
+ex. "PWR" + "01" = "PWR01" sets system ON.
 
 # Basic Example
 
