@@ -82,7 +82,7 @@ delay(500);
 
 Use the following project to use Onkyo receiver connected to a PC.
 
-[Z906.ptp](docklight/ONKYO.ptp)
+[onkyo.ptp](docklight/onkyo.ptp)
 
 <img src=https://raw.githubusercontent.com/zarpli/Logitech-Z906/main/images/docklight.png>
 
