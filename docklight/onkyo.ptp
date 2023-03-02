@@ -1,0 +1,241 @@
+VERSION
+8
+
+COMMSETTINGS
+0
+COM16
+COM2
+9600
+2
+63
+4
+0
+0
+
+COMMDISPLAY
+0
+
+VERSATAP
+0
+
+CHANNELALIAS
+
+
+
+SEND
+0
+PWR - Sets System Standby
+21 31 50 57 52 30 30 0D
+0
+5
+
+SEND
+1
+PWR - Sets System ON
+21 31 50 57 52 30 31 0D
+0
+5
+
+SEND
+2
+PWR - Gets the System Power Status
+21 31 50 57 52 51 53 54 4E 0D
+0
+5
+
+SEND
+3
+AMT - Sets Audio Mutting OFF
+21 31 41 4D 54 30 30 0D
+0
+5
+
+SEND
+4
+AMT - Sets Audio Mutting ON
+21 31 41 4D 54 30 31 0D
+0
+5
+
+SEND
+5
+AMT - Sets Audio Mutting Toggle
+21 31 41 4D 54 54 47 0D
+0
+5
+
+SEND
+6
+AMT - Gets Audio Mutting State
+21 31 41 4D 54 51 53 54 4E 0D
+0
+5
+
+SEND
+7
+MVL - Sets Master Volume to 0x30
+21 31 4D 56 4C 33 30 0D
+0
+5
+
+SEND
+8
+MVL - Sets Master Volume to 0x00
+21 31 4D 56 4C 30 30 0D
+0
+5
+
+SEND
+9
+MVL - Sets Master Volume Level UP
+21 31 4D 56 4C 55 50 0D
+0
+5
+
+SEND
+10
+MVL - Sets Master Volume Level DOWN
+21 31 4D 56 4C 44 4F 57 4E 0D
+0
+5
+
+SEND
+11
+MVL - Gets the Master Volume
+21 31 4D 56 4C 51 53 54 4E 0D
+0
+5
+
+SEND
+12
+DIM - Sets Dimmer Level to 0x00 (Bright)
+21 31 44 49 4D 30 30 0D
+0
+5
+
+SEND
+13
+DIM - Sets Dimmer Level to 0x01 (Dim)
+21 31 44 49 4D 30 31 0D
+0
+5
+
+SEND
+14
+DIM - Sets Dimmer Level to 0x02 (Dark)
+21 31 44 49 4D 30 32 0D
+0
+5
+
+SEND
+15
+DIM - Sets Dimmer Level to 0x01 (Shut-Off)
+21 31 44 49 4D 30 33 0D
+0
+5
+
+SEND
+16
+SLI - Sets Input VCR/DVR
+21 31 53 4C 49 30 30 0D
+0
+5
+
+SEND
+17
+SLI - Sets Input CBL/SAT
+21 31 53 4C 49 30 31 0D
+0
+5
+
+SEND
+18
+SLI - Sets Input GAME/TV
+21 31 53 4C 49 30 32 0D
+0
+5
+
+SEND
+19
+SLI - Sets Input AUX
+21 31 53 4C 49 30 33 0D
+0
+5
+
+SEND
+20
+SLI - Sets Input TAPE
+21 31 53 4C 49 32 30 0D
+0
+5
+
+SEND
+21
+SLI - Sets Input CD
+21 31 53 4C 49 32 33 0D
+0
+5
+
+SEND
+22
+SLI - Sets Input TUNER
+21 31 53 4C 49 32 36 0D
+0
+5
+
+SEND
+23
+LMD - Sets Listening Mode STEREO
+21 31 4C 4D 44 30 30 0D
+0
+5
+
+SEND
+24
+LMD - Sets Listening Mode DIRECT
+21 31 4C 4D 44 30 31 0D
+0
+5
+
+SEND
+25
+LMD - Sets Listening Mode SURROUND
+21 31 4C 4D 44 30 32 0D
+0
+5
+
+SEND
+26
+LMD - Sets Listening Mode THX
+21 31 4C 4D 44 30 34 0D
+0
+5
+
+SEND
+27
+LMD - Sets Listening Mode MUSICAL
+21 31 4C 4D 44 30 36 0D
+0
+5
+
+SEND
+28
+LMD - Sets Listening Mode ORCHESTRA
+21 31 4C 4D 44 30 38 0D
+0
+5
+
+SEND
+29
+LMD - Sets Listening Mode PLIIx Movie
+21 31 4C 4D 44 38 30 0D
+0
+5
+
+SEND
+30
+LMD - Sets Listening Mode PLIIx Music
+21 31 4C 4D 44 38 31 0D
+0
+5
+
