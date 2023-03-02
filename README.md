@@ -34,6 +34,10 @@ Example of FCC connector as viewed from the back of the receivers.
 
 <p align="center"><img src=/img/PORT9PIN.png></p>
 
+# commands
+
+The commands are defined in the [ISCP](doc/ISCP_ONKYO_V115.pdf) spec document.
+
 # Basic Example
 
 ```C++
