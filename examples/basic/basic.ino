@@ -11,8 +11,8 @@ Basic example of the ONKYO library.
 
 #include <ONKYO.h>
 
-// Instantiate a ONKYO object and Attach to Serial1
-ONKYO TX_SR606(Serial1);
+// Instantiate a ONKYO object and Attach to Serial2
+ONKYO TX_SR606(Serial2);
 
 void setup(){
 
