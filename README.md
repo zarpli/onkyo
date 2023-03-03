@@ -47,8 +47,8 @@ ex. "PWR" + "01" = "PWR01" sets system ON.
 ```C++
 #include <ONKYO.h>
 
-// Instantiate a ONKYO object and Attach to Serial1
-ONKYO TX_SR606(Serial1);
+// Instantiate a ONKYO object and Attach to Serial2
+ONKYO TX_SR606(Serial2);
 
 void setup(){
 
