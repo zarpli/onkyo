@@ -44,7 +44,7 @@ Example of FCC connector as viewed from the back of the receivers.
 
 # ISCP commands
 
-The commands are defined in the [ISCP](doc/ISCP_ONKYO_V115.pdf) spec document.
+The commands are defined in the [ISCP](doc/ISCP_ONKYO_V115.pdf) specs document.
 
 <p align="center"><img src=https://raw.githubusercontent.com/zarpli/onkyo/main/img/pwr_cmd.png></p>
 
