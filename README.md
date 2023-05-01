@@ -1,4 +1,4 @@
-# ONKYO
+# Onkyo
 Control library for Integra/Onkyo AV receivers
 
 <p align="center"><img src=/img/onkyo.jpg width="700"></p>
@@ -33,6 +33,14 @@ Serial Port **NO** is 5V tolerant. If you have Arduino UNO, MEGA, etc use a **Lo
 Example of FCC connector as viewed from the back of the receivers.
 
 <p align="center"><img src=/img/PORT9PIN.png></p>
+
+# General commands
+
+|command|argument|description|
+|---|---|---|
+|power|value [0-1]|power OFF or Power ON the unit|
+|volume|value [0-255]|set the volume to value argument|
+|get_volume|none|return current volume|
 
 # ISCP commands
 
