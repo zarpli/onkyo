@@ -12,6 +12,9 @@ ONKYO		KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 cmd			KEYWORD2
+get_volume	KEYWORD2
+volume		KEYWORD2
+power		KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
