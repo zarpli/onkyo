@@ -48,7 +48,7 @@ The commands are defined in the [ISCP](doc/ISCP_ONKYO_V115.pdf) specs document.
 
 <p align="center"><img src=/img/ISCP.png width="500"></p>
 
-ex. "PWR" + "01" = "PWR01" sets system ON.
+example: "AMT" + "01" = "AMT01" sets audio muting on.
 
 # Basic Example
 
