@@ -63,7 +63,7 @@ void setup(){
 Serial.begin(9600);
 while(!Serial);
 
-Serial.println("TEST Onkyo Control Lybrary");
+Serial.println("TEST Onkyo Control Library");
 
 while(TX_SR606.cmd("PWRQSTN") == 0) // Gets the System Power Status
 {
