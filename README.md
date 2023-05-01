@@ -5,7 +5,7 @@ Control library for Integra/Onkyo AV receivers
 
 # FFC Non-ZIF 1.0mm 9 pin connector
 
-Onkyo AV receivers have a 9-pin connector usually located on the back of the equipment, this connector is used to re-program the main microcontroller and also has a UART TTL serial communication at 3.3V.
+Onkyo AV receivers have a not "visible and public" port 9-pin connector, usually located on the back of the equipment, this connector is used to re-program the main microcontroller and also has a UART TTL serial communication at 3.3V.
 
 <p align="center"><img src=/img/FCC1MM9PNZ.png width="500"></p>
 
