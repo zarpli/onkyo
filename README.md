@@ -77,8 +77,8 @@ while(TX_SR606.cmd("PWRQSTN") == 0) // Gets the System Power Status
 // Select Input TAPE
 TX_SR606.cmd("SLI20");
 
-// Sets Master Volume to 48 (0x30)
-TX_SR606.cmd("MVL30");
+// Sets Master Volume to 48
+TX_SR606.volume(48);
 
 // Mute OFF command
 TX_SR606.cmd("AMT00");
@@ -86,7 +86,7 @@ TX_SR606.cmd("AMT00");
 
 void loop(){
 
-Serial.println("Current Volume : " + String(TX_SR606.cmd("MVLQSTN")));
+Serial.println("Current Volume : " + (String) TX_SR606.get_volume());
 
 delay(500);
 
