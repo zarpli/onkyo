@@ -92,6 +92,12 @@ delay(500);
 
 }
 ```
+# ESP32 mod
+
+If you decide to integrate a microcontroller into the equipment to be controlled by WiFi, consider that for example an ESP32 can demand 250mA, so you must add an additional power source.
+
+<p align="center"><img src=/img/ESP32_mod.jpg width="500"></p>
+
 # Use with Docklight
 
 [Docklight](https://docklight.de/) is a testing, analysis and simulation tool for serial communication protocols.
