@@ -103,4 +103,4 @@ Use the following project to use Onkyo receiver connected to a PC.
 <img src=https://raw.githubusercontent.com/zarpli/onkyo/main/img/docklight.png>
 
 # YouTube
-<a href="https://www.youtube.com/watch?v=QVzbw9zAXnw" target="_blank"><img src="http://img.youtube.com/vi/wX5v-eNpImo/0.jpg" alt="YouTube" width="400" border="10"/></a>
+<a href="https://www.youtube.com/watch?v=wX5v-eNpImo" target="_blank"><img src="http://img.youtube.com/vi/wX5v-eNpImo/0.jpg" alt="YouTube" width="400" border="10"/></a>
