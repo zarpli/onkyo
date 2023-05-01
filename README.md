@@ -17,7 +17,7 @@ The following table illustrates the pinout.
 |2|GND|7|RXD|
 |3|TXD|8||
 |4||9||
-|5|3.3V @ 20mA|||
+|5|3.3V @ 100mA|||
 
 
 Serial Port **NO** is 5V tolerant. If you have Arduino UNO, MEGA, etc use a **Logic Level Converter.**
