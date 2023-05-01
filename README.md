@@ -53,7 +53,7 @@ example: "AMT" + "01" = "AMT01" sets audio muting on.
 # Basic Example
 
 ```C++
-#include <ONKYO.h>
+#include <Onkyo.h>
 
 // Instantiate a ONKYO object and Attach to Serial2
 ONKYO TX_SR606(Serial2);
