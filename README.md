@@ -100,7 +100,7 @@ Use the following project to use Onkyo receiver connected to a PC.
 
 [onkyo.ptp](docklight/onkyo.ptp)
 
-<img src=https://raw.githubusercontent.com/zarpli/onkyo/main/images/docklight.png>
+<img src=https://raw.githubusercontent.com/zarpli/onkyo/main/img/docklight.png>
 
 # YouTube
 <a href="https://www.youtube.com/watch?v=QVzbw9zAXnw" target="_blank"><img src="http://img.youtube.com/vi/QVzbw9zAXnw/0.jpg" alt="YouTube" width="400" border="10"/></a>
